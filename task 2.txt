@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>ordered Lists</title>
+</head>
+<body>
+<ol>
+  <li>CSE</li>
+  <li>ECE</li>
+  <li>CIVIL</li>
+  <li>BCA</li>
+</ol>
+
+
+<ul type="circle">
+<li>FED</li>
+<li>MECH</li>
+<li>ECE</li>
+  <li>BT</li>
+</ul>
+  <dl>
+  <dt>HTML</dt>
+  <dd>This stsnds for Hyper Text Markup Language</dd>
+  <dt>HTTP</dt>
+  <dd> This stands for Hyper Text Markup Protocol</dd>
+</dl>
+
+</body>
+</html>
